@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF174C](https://codeforces.com/problemset/problem/174/C) | Adding a value to a segment is all about changing two elements in a first-order differential sequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf174c.md) |
-| 1900 | [CF223C](https://codeforces.com/problemset/problem/223/C) | Consider the weight of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf223c.md) |
+| *1800 | [CF396B](https://codeforces.com/problemset/problem/396/B) | A lot of $v(i)u(i)$ are the same. Consider them together! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1202/solution/cf396b.md) |
+| 1900 | [CF362C](https://codeforces.com/problemset/problem/362/C) | How does the swap of two elements change the total number of inversions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1202/solution/cf362c.md) |
