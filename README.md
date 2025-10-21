@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [CF396B](https://codeforces.com/problemset/problem/396/B) | A lot of $v(i)u(i)$ are the same. Consider them together! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1202/solution/cf396b.md) |
-| 1900 | [CF362C](https://codeforces.com/problemset/problem/362/C) | How does the swap of two elements change the total number of inversions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1202/solution/cf362c.md) |
+| *1900 | [GYM105335I](https://codeforces.com/gym/105335/problem/I) | Try solve the problem in $\mathcal{O}(n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1021/solution/cf105335i.md) |
+| *2000 | [GYM104848E](https://codeforces.com/gym/104848/problem/E) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1021/solution/cf104848e.md) |
